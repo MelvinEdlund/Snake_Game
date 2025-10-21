@@ -14,6 +14,7 @@ Efter Game Over kan man trycka `R` för att spela igen eller `ESC` för att avsl
 ![spel](bilder/gameplay.png)
 
 **Game Over:** 
+
 ![gameover](bilder/gameover.png)
 
 ---
